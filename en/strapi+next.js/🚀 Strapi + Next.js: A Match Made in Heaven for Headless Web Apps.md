@@ -74,8 +74,13 @@ Whether you're building a startup MVP or a client project, this stack empowers y
 - **Documentation portals**
 - **Headless e-commerce frontends**
 - **Landing pages with CMS-managed content**
-
 ---
+### What's next
+
+🚀 **Next up:** In the following section, we'll walk you through creating a **Next.js** frontend with localizatio
+
+Stay tuned!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTE1NzU5MiwxOTQ5OTQ3MDY0XX0=
+eyJoaXN0b3J5IjpbLTQ1MTI1OTU2OCwtNTg1MTU3NTkyLDE5ND
+k5NDcwNjRdfQ==
 -->
