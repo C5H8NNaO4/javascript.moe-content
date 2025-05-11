@@ -1,4 +1,4 @@
-## 🚀 Strapi + Next.js: A Match Made in Heaven for Headless Web Apps 
+## 🚀 Strapi + Next.js: A Match Made in Heaven | Part I: An Overview
 
 When building modern web applications, developers often want speed, flexibility, and scalability—without a heavy price tag. That’s where the pairing of **Strapi** and **Next.js**, deployed on **Vercel’s free tier**, shines.
 
@@ -77,5 +77,5 @@ Whether you're building a startup MVP or a client project, this stack empowers y
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTk0NzA2NF19
+eyJoaXN0b3J5IjpbLTU4NTE1NzU5MiwxOTQ5OTQ3MDY0XX0=
 -->
