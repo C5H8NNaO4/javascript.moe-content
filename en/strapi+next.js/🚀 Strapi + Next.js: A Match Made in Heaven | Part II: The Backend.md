@@ -1,6 +1,6 @@
 # Strapi + Next.js: A Match Made in Heaven | Part III: The Backend
 
-This is **Part II** of a series of posts, walking you through creating a Strapi + Next.js project from scratch. [**Part 1**](https://javascript.moe/en/blog/strapi-next-js-a-match-made-in-heaven-part-i-an-overview-yvukfo3du0lzsicgq5lwhf2h)
+This is **Part III** of a series of posts, walking you through creating a Strapi + Next.js project from scratch. [**Part II**](https://javascript.moe/en/blog/strapi-next-js-a-match-made-in-heaven-part-ii-the-frontend-udq30yay3xcml783tybydxpp)
 
 ## 🚀Part III: The Backend
 
@@ -444,5 +444,5 @@ frontend, flesh out the backend and **deploy** your app so it can be reached onl
 
 Stay tuned!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzk5OTgyMDFdfQ==
+eyJoaXN0b3J5IjpbLTE4NDMwMTYwMTVdfQ==
 -->
