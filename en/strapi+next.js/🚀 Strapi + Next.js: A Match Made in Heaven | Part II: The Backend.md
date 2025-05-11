@@ -1,4 +1,4 @@
-## 🚀 Strapi + Next.js: A Match Made in Heaven | Part II: The Backend
+## 🚀 Strapi + Next.js: A Match Made in Heaven | Part III: The Backend
 
 In this part of the guide, we’ll walk through the steps to set up Strapi locally, create a content type for articles, enable localization, and expose the necessary APIs. This will allow us to fetch and render content on the Next.js frontend.
 
@@ -440,5 +440,5 @@ frontend, flesh out the backend and **deploy** your app so it can be reached onl
 
 Stay tuned!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDI3OTE3M119
+eyJoaXN0b3J5IjpbMTUxNDM4MTQ2Ml19
 -->
