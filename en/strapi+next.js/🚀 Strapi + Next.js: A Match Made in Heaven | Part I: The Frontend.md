@@ -76,6 +76,12 @@ Whether you're building a startup MVP or a client project, this stack empowers y
 - **Landing pages with CMS-managed content**
 
 ---
+
+### What's next
+
+🚀 **Next up:** In the next part of this guide we'll walk you through creating a **Strapi** backend with an Article content type and localization.
+
+Stay tuned!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE5OTI2MjI2XX0=
+eyJoaXN0b3J5IjpbMTQ5MTI4MDA2NywyMTk5MjYyMjZdfQ==
 -->
