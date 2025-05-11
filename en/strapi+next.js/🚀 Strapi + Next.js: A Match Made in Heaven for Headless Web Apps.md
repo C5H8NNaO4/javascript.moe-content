@@ -77,10 +77,10 @@ Whether you're building a startup MVP or a client project, this stack empowers y
 ---
 ### What's next
 
-🚀 **Next up:** In the following section, we'll walk you through creating a **Next.js** frontend with localizatio
+🚀 **Next up:** In the next part of this guide we'll walk you through creating a **Next.js** frontend with localization.
 
 Stay tuned!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTI1OTU2OCwtNTg1MTU3NTkyLDE5ND
-k5NDcwNjRdfQ==
+eyJoaXN0b3J5IjpbMzQ4NzM5OTU1LC01ODUxNTc1OTIsMTk0OT
+k0NzA2NF19
 -->
