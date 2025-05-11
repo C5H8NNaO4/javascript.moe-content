@@ -437,12 +437,12 @@ After modifying your `.env.local` file, start the Next.js dev server: `yarn dev`
 You should now see plain text of your articles. The only thing left now is to build a proper
 frontend, flesh out the backend and **deploy** your app so it can be reached online.
 
-
+-----
 ### What's next
 
 🚀 **Next up:** In the following section, we'll walk you through deploying both your **Strapi backend** and your **Next.js frontend**—so your site can go live with minimal effort and cost, leveraging the platforms **Railway** and **Vercel**.
 
 Stay tuned!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMwMTYwMTVdfQ==
+eyJoaXN0b3J5IjpbLTkwMTMzMjE2LC0xODQzMDE2MDE1XX0=
 -->
