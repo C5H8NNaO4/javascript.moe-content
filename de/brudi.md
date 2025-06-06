@@ -1,36 +1,37 @@
+
 **Brudi, bist du auch breit?**
 
 Komm mit mir – ich zeig dir mein Reich;  
 in dem jeder regiert –  
-nennt sich Fréihéit im Kopf, und die Líebe verliert  
-níemáls. Hab ich sélbst so eińprogrammiert.
+nennt sich Freiheit im Kopf, und die Liebe verliert  
+niemals. Hab ich selbst so einprogrammiert.
 
-In meiner Fantasīe ist keiner eíner von vīelen.  
-Die Schönheit von Fráuen – _tres jolīe_; reínste Magíe.
+In meiner Fantasie ist keiner einer von vielen.  
+Die Schönheit von Frauen – _très jolie_; reinste Magie.
 
-Willst du fliegen? Komm vorbeí –  
-und geh mit mír auf 'ne Reíse  
-durchs Lében – Freúndschaft – Seite an Seite.  
+Willst du fliegen? Komm vorbei –  
+und geh mit mir auf ’ne Reise  
+durchs Leben – Freundschaft – Seite an Seite.  
 Durch dick und dünn,  
 labern ohne Sinn und Verstand –  
 mit dem wir zwar reich beschenkt wurden,  
 doch als Genies stets verkannt.
 
-Inkógnito – doch cōgito, ergo súm.  
-Zum Glück nicht Philosóph gewōrden –  
-ich hab gehört: _Determinismús sórgt für prálle Hoden._  
-Spáß, man – eígentlich bin ich gár nicht so dumm.
+Inkognito – doch cogito, ergo sum.  
+Zum Glück nicht Philosoph geworden –  
+ich hab gehört: _Determinismus sorgt für pralle Hoden._  
+Spaß, man – eigentlich bin ich gar nicht so dumm.
 
-Wie man sieht – reimen sich meine Texte schón;  
+Wie man sieht – reimen sich meine Texte schon;  
 als Kind hab ich viel geschrieben.  
 ADS, Ritalin, zu viel Oxytocin –  
-bítte mehr Norepinephrin für mein júnges Gehírn!
+bitte mehr Norepinephrin für mein junges Gehirn!
 
-Máximále Éntropie ist meiner Órdnung verblieben;  
-zuviel Cháos im Kopf –  
+Maximale Entropie ist meiner Ordnung verblieben;  
+zu viel Chaos im Kopf –  
 und mich ständig am Verlieben.  
-Zu sein ist áuch schön – ich mág Gefühle sēhr.  
-Umármen und kúscheln – auf Drogen noch méhr.
+Zu sein ist auch schön – ich mag Gefühle sehr.  
+Umarmen und kuscheln – auf Drogen noch mehr.
 
 Komm mal her –  
 komm, wir verlieben uns.  
@@ -41,10 +42,10 @@ durch Erinnerungen schaffen.
 Für immer morgens lächelnd verliebt aufwachen.
 
 Jeden Tag lachen,  
-das Lében genießen,  
-wertschätzend • leben und lieben.  
+das Leben genießen,  
+wertschätzend – leben und lieben.  
 Was uns wurd gegeben –  
-erleben nicht víele.
+erleben nicht viele.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU2ODQ2MDRdfQ==
+eyJoaXN0b3J5IjpbNzk4OTc3ODg3XX0=
 -->
